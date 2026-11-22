@@ -1,6 +1,5 @@
 # TP 4 : Apprentissage par renforcement (RL) avec CartPole et PPO
 
-ENSA Fès | Module : Technologies IA | ILIA2
 
 ## 1. Objectif
 
